@@ -3,7 +3,7 @@
 ![SQL Sticker](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL Sticker](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-> **Huge shoutout to [Kalyani Bhatnagar](#) for conducting this amazing challenge!**
+> **Huge shoutout to [Kalyani Bhatnagar](#) mam for conducting this amazing challenge!**
 
 Welcome to my journey through the DataPencil 10 Days SQL Challenge. This repo contains all daily tasks and my solutions (with explanations and video links).  
 ---
